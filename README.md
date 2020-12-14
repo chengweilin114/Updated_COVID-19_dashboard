@@ -31,7 +31,9 @@ If you are interested in playing around tha data, feel free to download my workb
 Before you download, please install the tableau software. Here is the [official website](https://help.tableau.com/current/desktopdeploy/en-us/desktop_deploy_download_and_install.htm)
 
 ## Demo
+[Demo](https://public.tableau.com/views/Covid-19_dashboard_upload/Covid-19?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 For more information please visit my [tableau public](https://public.tableau.com/profile/cheng.wei.lin#!/vizhome/Covid-19_dashboard_upload/Covid-19) 
+
 
 
 ## Licensing
